@@ -18,7 +18,7 @@ public class CWH_06_Exercise1 {
         System.out.print("Enter marks of P.ed: ");
         int e = s.nextInt();
 
-        int percentage = ((a+b+c+d+e)/500)*100;
+        float percentage = ((a+b+c+d+e)/500f)*100;
         System.out.println("your percentage is: ");
         System.out.println(percentage);
     }
