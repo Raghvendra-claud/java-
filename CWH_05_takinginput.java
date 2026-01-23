@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class CWH_05_takinginput {
     public static void main(String[] args) {
         System.out.println("it works");
